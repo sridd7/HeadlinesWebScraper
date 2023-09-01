@@ -25,7 +25,7 @@ This project is a web scraper that fetches the latest football news headlines an
 
 2. Download and configure the Chrome WebDriver: Download the appropriate Chrome WebDriver for your operating system and place it in the project directory. Update the `path` variable in the script with the path to the downloaded Chrome WebDriver.
 
-3. Run the script: Simply execute the `football_news_scraper.py` script, and it will start scraping the website for football news headlines and links. The results will be saved in the "headline_news.xlsx" file in the same directory.
+3. Run the script: Simply execute the `code.py` script, and it will start scraping the website for football news headlines and links. The results will be saved in the "headline_news.xlsx" file in the same directory.
 
 4. Customize the script: You can modify the script to scrape headlines from other websites or add additional data fields, such as timestamps or article summaries.
 
